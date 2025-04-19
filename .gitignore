@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,29 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+||||||| (empty tree)
+=======
+venv/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+__pycache__
+experiments
+# pixi environments
+.pixi
+*.egg-info
+dist
+.venv
+build
+.pytest_cache
+models
+mlx_models
+>>>>>>> e25327b (feat: first working version)
