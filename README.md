@@ -15,6 +15,7 @@ insanely-fast-whisper  0.8733          device_id=mps, batch_size=24, compute_typ
 lightning-whisper-mlx  1.1470          batch_size=24, quant=none
 faster-whisper         2.2725          device=cpu, compute_type=int8, beam_size=1, cpu_threads=4
 ```
+Demo: https://x.com/anvanvan/status/1913624854584037443
 
 ## Overview
 
