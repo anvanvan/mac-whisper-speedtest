@@ -3,7 +3,7 @@
 A benchmarking tool to compare different Whisper implementations optimized for Apple Silicon, focusing on speed while maintaining accuracy.
 
 ## Example output
-
+Test results from MacBook Air M3 8GB:
 ```
 === Benchmark Summary for 'small' model ===
 
